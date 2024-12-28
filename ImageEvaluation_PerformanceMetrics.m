@@ -34,6 +34,12 @@ resultImage1 = [
     0 0 1 1 1 1 0 0 0 1 1 1
 ];
 
+disp('Real Image Question 1:');
+disp(realImage1);
+
+disp('Result Image Question 1:');
+disp(resultImage1);
+
 % Initialize the variables
 tp = 0;
 tn = 0;
@@ -104,6 +110,13 @@ resultImage2 = [
     10 39 150 240 150 240 40 48;
     50 23 200 250 200 250 10 39
 ];
+
+disp('Real Image Question 2:');
+disp(realImage2);
+
+disp('Result Image Question 2:');
+disp(resultImage2);
+
 
 tp = 0;
 tn = 0;
