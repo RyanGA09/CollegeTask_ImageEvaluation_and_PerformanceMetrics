@@ -1,1 +1,1 @@
-# CollegeTask_ImageEvaluation_and_PerformanceMetrics
+# CollegeTask - Image Evaluation and Performan ceMetrics
